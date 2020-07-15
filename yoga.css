@@ -1,0 +1,16 @@
+.header{
+	background-image: url("https://wallpapercave.com/wp/wp2765111.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 650px;
+	width: 100%;
+	position: relative;
+}
+body{
+	font-size: 24px;
+	line-height: 2em;
+	word-spacing: 2px;
+}
+.color{
+	background-color: #EBF2F2;
+}
